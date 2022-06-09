@@ -24,6 +24,7 @@
 		301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C0482285149CB000B7EF8 /* StacksBootcamp.swift */; };
 		301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C04842852922B000B7EF8 /* InitializerBootcamp.swift */; };
 		301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */; };
+		301C04892852A079000B7EF8 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		301C0482285149CB000B7EF8 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		301C04842852922B000B7EF8 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				00DE456C2852029B00E0ED44 /* SpacerBootcamp.swift */,
 				301C04842852922B000B7EF8 /* InitializerBootcamp.swift */,
 				301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */,
+				301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				007BA9EC2850EBF100B236D6 /* GradientsBootcamp.swift in Sources */,
 				301C0481285142D4000B7EF8 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				301C04892852A079000B7EF8 /* ScrollViewBootcamp.swift in Sources */,
 				00DE456B2851F31D00E0ED44 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				007BA9EA2850E3EF00B236D6 /* ColorsBootcamp.swift in Sources */,
 				007BA9F22850FC6500B236D6 /* FrameBootcamp.swift in Sources */,
