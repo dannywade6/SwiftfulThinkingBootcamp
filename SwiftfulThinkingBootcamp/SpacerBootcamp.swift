@@ -31,11 +31,7 @@ struct SpacerBootcamp: View {
                 .frame(height: 55)
         }
 //        .background(Color.yellow)
-        
-        
-        
     }
-    
 }
 
 

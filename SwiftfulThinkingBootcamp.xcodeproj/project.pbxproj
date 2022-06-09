@@ -22,6 +22,8 @@
 		00DE456D2852029B00E0ED44 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DE456C2852029B00E0ED44 /* SpacerBootcamp.swift */; };
 		301C0481285142D4000B7EF8 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C0480285142D4000B7EF8 /* BackgroundAndOverlayBootcamp.swift */; };
 		301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C0482285149CB000B7EF8 /* StacksBootcamp.swift */; };
+		301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C04842852922B000B7EF8 /* InitializerBootcamp.swift */; };
+		301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		00DE456C2852029B00E0ED44 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		301C0480285142D4000B7EF8 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		301C0482285149CB000B7EF8 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		301C04842852922B000B7EF8 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				301C0482285149CB000B7EF8 /* StacksBootcamp.swift */,
 				00DE456A2851F31D00E0ED44 /* PaddingAndSpacerBootcamp.swift */,
 				00DE456C2852029B00E0ED44 /* SpacerBootcamp.swift */,
+				301C04842852922B000B7EF8 /* InitializerBootcamp.swift */,
+				301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -175,8 +181,10 @@
 				00DE456B2851F31D00E0ED44 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				007BA9EA2850E3EF00B236D6 /* ColorsBootcamp.swift in Sources */,
 				007BA9F22850FC6500B236D6 /* FrameBootcamp.swift in Sources */,
+				301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */,
 				007BA9E82850DEC300B236D6 /* ShapesBootcamp.swift in Sources */,
 				007BA9DA2850DD9900B236D6 /* ContentView.swift in Sources */,
+				301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */,
 				007BA9E62850DDB600B236D6 /* TextBootcamp.swift in Sources */,
 				007BA9D82850DD9900B236D6 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */,
