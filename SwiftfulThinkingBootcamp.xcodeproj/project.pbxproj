@@ -26,6 +26,7 @@
 		301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */; };
 		301C04892852A079000B7EF8 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */; };
 		303C634E2855F1FF00E121E2 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303C634D2855F1FF00E121E2 /* GridBootcamp.swift */; };
+		303C635028568D2F00E121E2 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303C634F28568D2F00E121E2 /* SafeAreaBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		303C634D2855F1FF00E121E2 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		303C634F28568D2F00E121E2 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				301C048628529AA8000B7EF8 /* ForEachBootcamp.swift */,
 				301C04882852A079000B7EF8 /* ScrollViewBootcamp.swift */,
 				303C634D2855F1FF00E121E2 /* GridBootcamp.swift */,
+				303C634F28568D2F00E121E2 /* SafeAreaBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				007BA9F22850FC6500B236D6 /* FrameBootcamp.swift in Sources */,
 				301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */,
 				007BA9E82850DEC300B236D6 /* ShapesBootcamp.swift in Sources */,
+				303C635028568D2F00E121E2 /* SafeAreaBootcamp.swift in Sources */,
 				007BA9DA2850DD9900B236D6 /* ContentView.swift in Sources */,
 				301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */,
 				007BA9E62850DDB600B236D6 /* TextBootcamp.swift in Sources */,
