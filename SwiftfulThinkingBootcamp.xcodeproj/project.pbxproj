@@ -31,6 +31,7 @@
 		30933E6A2859116800ABF1BD /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E692859116800ABF1BD /* StateBootcamp.swift */; };
 		30933E6C285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E6B285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift */; };
 		30933E6E28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */; };
+		30933E722859295B00ABF1BD /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E712859295B00ABF1BD /* BindingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		30933E692859116800ABF1BD /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		30933E6B285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsBootcamp.swift; sourceTree = "<group>"; };
+		30933E712859295B00ABF1BD /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				30933E692859116800ABF1BD /* StateBootcamp.swift */,
 				30933E6B285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift */,
 				30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */,
+				30933E712859295B00ABF1BD /* BindingBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				007BA9E62850DDB600B236D6 /* TextBootcamp.swift in Sources */,
 				007BA9D82850DD9900B236D6 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */,
+				30933E722859295B00ABF1BD /* BindingBootcamp.swift in Sources */,
 				00DE456D2852029B00E0ED44 /* SpacerBootcamp.swift in Sources */,
 				303C634E2855F1FF00E121E2 /* GridBootcamp.swift in Sources */,
 				007BA9F02850F74400B236D6 /* ImageBootcamp.swift in Sources */,
