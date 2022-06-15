@@ -36,6 +36,7 @@
 		30933E76285A195200ABF1BD /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E75285A195200ABF1BD /* TernaryBootcamp.swift */; };
 		30933E78285A1E5200ABF1BD /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E77285A1E5200ABF1BD /* AnimationBootcamp.swift */; };
 		30933E7A285A2AFC00ABF1BD /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E79285A2AFC00ABF1BD /* AnimationTimingBootcamp.swift */; };
+		30933E7C285A2F8B00ABF1BD /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E7B285A2F8B00ABF1BD /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		30933E75285A195200ABF1BD /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		30933E77285A1E5200ABF1BD /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		30933E79285A2AFC00ABF1BD /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		30933E7B285A2F8B00ABF1BD /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				30933E75285A195200ABF1BD /* TernaryBootcamp.swift */,
 				30933E77285A1E5200ABF1BD /* AnimationBootcamp.swift */,
 				30933E79285A2AFC00ABF1BD /* AnimationTimingBootcamp.swift */,
+				30933E7B285A2F8B00ABF1BD /* TransitionBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				301C048728529AA8000B7EF8 /* ForEachBootcamp.swift in Sources */,
 				007BA9E62850DDB600B236D6 /* TextBootcamp.swift in Sources */,
 				007BA9D82850DD9900B236D6 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				30933E7C285A2F8B00ABF1BD /* TransitionBootcamp.swift in Sources */,
 				301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */,
 				30933E722859295B00ABF1BD /* BindingBootcamp.swift in Sources */,
 				00DE456D2852029B00E0ED44 /* SpacerBootcamp.swift in Sources */,
