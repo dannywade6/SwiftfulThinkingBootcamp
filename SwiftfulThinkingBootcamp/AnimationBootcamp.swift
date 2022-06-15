@@ -14,24 +14,27 @@ struct AnimationBootcamp: View {
     var body: some View {
         VStack {
             Button("Button") {
-                isAnimated.toggle()
+                withAnimation(
+                    Animation
+                        .default
+                        .repeatForever(autoreverses: true)
+                ) {
+                    isAnimated.toggle()
+                }
             }
-        Spacer()
-        RoundedRectangle(cornerRadius: isAnimated ? 50 : 25)
-            .fill(isAnimated ? Color.red : Color.green)
-            .frame(
-                width: isAnimated ? 100 : 300,
-                height: isAnimated ? 100 : 300
-            )
-            .rotationEffect(Angle(degrees: isAnimated ? 360 : 0))
-            .offset(y: isAnimated ? 300 : 0)
-            .animation(Animation
-                .default
-                .repeatForever(autoreverses: true))
+            Spacer()
+            RoundedRectangle(cornerRadius: isAnimated ? 50 : 25)
+                .fill(isAnimated ? Color.red : Color.green)
+                .frame(
+                    width: isAnimated ? 100 : 300,
+                    height: isAnimated ? 100 : 300
+                )
+                .rotationEffect(Angle(degrees: isAnimated ? 360 : 0))
+                .offset(y: isAnimated ? 300 : 0)
 
-        Spacer()
+            Spacer()
+        }
     }
-}
 }
 
 struct AnimationBootcamp_Previews: PreviewProvider {
