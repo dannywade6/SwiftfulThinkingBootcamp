@@ -33,6 +33,7 @@
 		30933E6E28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */; };
 		30933E722859295B00ABF1BD /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E712859295B00ABF1BD /* BindingBootcamp.swift */; };
 		30933E742859C44800ABF1BD /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E732859C44800ABF1BD /* ConditionalBootcamp.swift */; };
+		30933E76285A195200ABF1BD /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E75285A195200ABF1BD /* TernaryBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsBootcamp.swift; sourceTree = "<group>"; };
 		30933E712859295B00ABF1BD /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		30933E732859C44800ABF1BD /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
+		30933E75285A195200ABF1BD /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				30933E6D28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift */,
 				30933E712859295B00ABF1BD /* BindingBootcamp.swift */,
 				30933E732859C44800ABF1BD /* ConditionalBootcamp.swift */,
+				30933E75285A195200ABF1BD /* TernaryBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				30933E6C285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift in Sources */,
 				301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */,
 				007BA9E82850DEC300B236D6 /* ShapesBootcamp.swift in Sources */,
+				30933E76285A195200ABF1BD /* TernaryBootcamp.swift in Sources */,
 				30933E6E28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift in Sources */,
 				302F047A2857D9E7000CCBBC /* ButtonsBootcamp.swift in Sources */,
 				303C635028568D2F00E121E2 /* SafeAreaBootcamp.swift in Sources */,
