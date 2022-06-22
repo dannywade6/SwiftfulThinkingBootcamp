@@ -44,6 +44,7 @@
 		30B4E10928634913006A900F /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10828634913006A900F /* AlertBootcamp.swift */; };
 		30B4E10D2863577B006A900F /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */; };
 		30B4E10F28636901006A900F /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10E28636901006A900F /* ContextMenuBootcamp.swift */; };
+		30B4E11128636DF6006A900F /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E11028636DF6006A900F /* TextFieldBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		30B4E10828634913006A900F /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 		30B4E10E28636901006A900F /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
+		30B4E11028636DF6006A900F /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +156,7 @@
 				30B4E10828634913006A900F /* AlertBootcamp.swift */,
 				30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */,
 				30B4E10E28636901006A900F /* ContextMenuBootcamp.swift */,
+				30B4E11028636DF6006A900F /* TextFieldBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 				00DE456B2851F31D00E0ED44 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				007BA9EA2850E3EF00B236D6 /* ColorsBootcamp.swift in Sources */,
 				30B4E10F28636901006A900F /* ContextMenuBootcamp.swift in Sources */,
+				30B4E11128636DF6006A900F /* TextFieldBootcamp.swift in Sources */,
 				007BA9F22850FC6500B236D6 /* FrameBootcamp.swift in Sources */,
 				30933E6C285916DA00ABF1BD /* ExtractedFunctionsBootcamp.swift in Sources */,
 				301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */,
