@@ -42,6 +42,7 @@
 		30933E80285B071E00ABF1BD /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E7F285B071E00ABF1BD /* PopoverBootcamp.swift */; };
 		30933E82285B0D8A00ABF1BD /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */; };
 		30B4E10928634913006A900F /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10828634913006A900F /* AlertBootcamp.swift */; };
+		30B4E10D2863577B006A900F /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		30933E7F285B071E00ABF1BD /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		30B4E10828634913006A900F /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */,
 				005EF523285B2BB600BB7273 /* ListBootcamp.swift */,
 				30B4E10828634913006A900F /* AlertBootcamp.swift */,
+				30B4E10C2863577B006A900F /* ActionSheetBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				30933E7C285A2F8B00ABF1BD /* TransitionBootcamp.swift in Sources */,
 				301C0483285149CB000B7EF8 /* StacksBootcamp.swift in Sources */,
 				30933E80285B071E00ABF1BD /* PopoverBootcamp.swift in Sources */,
+				30B4E10D2863577B006A900F /* ActionSheetBootcamp.swift in Sources */,
 				30933E722859295B00ABF1BD /* BindingBootcamp.swift in Sources */,
 				00DE456D2852029B00E0ED44 /* SpacerBootcamp.swift in Sources */,
 				30933E78285A1E5200ABF1BD /* AnimationBootcamp.swift in Sources */,
