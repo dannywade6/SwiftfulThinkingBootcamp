@@ -41,6 +41,7 @@
 		30933E7E285A382F00ABF1BD /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E7D285A382F00ABF1BD /* SheetsBootcamp.swift */; };
 		30933E80285B071E00ABF1BD /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E7F285B071E00ABF1BD /* PopoverBootcamp.swift */; };
 		30933E82285B0D8A00ABF1BD /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */; };
+		30B4E10928634913006A900F /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4E10828634913006A900F /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		30933E7D285A382F00ABF1BD /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		30933E7F285B071E00ABF1BD /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		30B4E10828634913006A900F /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				30933E7F285B071E00ABF1BD /* PopoverBootcamp.swift */,
 				30933E81285B0D8A00ABF1BD /* NavigationViewBootcamp.swift */,
 				005EF523285B2BB600BB7273 /* ListBootcamp.swift */,
+				30B4E10828634913006A900F /* AlertBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				301C04852852922B000B7EF8 /* InitializerBootcamp.swift in Sources */,
 				007BA9E82850DEC300B236D6 /* ShapesBootcamp.swift in Sources */,
 				30933E76285A195200ABF1BD /* TernaryBootcamp.swift in Sources */,
+				30B4E10928634913006A900F /* AlertBootcamp.swift in Sources */,
 				30933E6E28591BFE00ABF1BD /* ExtractSubViewsBootcamp.swift in Sources */,
 				302F047A2857D9E7000CCBBC /* ButtonsBootcamp.swift in Sources */,
 				30933E7A285A2AFC00ABF1BD /* AnimationTimingBootcamp.swift in Sources */,
