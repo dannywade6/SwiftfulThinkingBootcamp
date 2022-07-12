@@ -36,6 +36,7 @@ struct DarkModeBootcamp: View {
                     
                     Text("This colour is locally adaptive!")
                         .foregroundColor(colorScheme == .light ? .green : .pink)
+                    
                 }
             }
             .navigationTitle("Dark Mode Bootcamp")
