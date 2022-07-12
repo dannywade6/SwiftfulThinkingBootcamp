@@ -11,7 +11,7 @@ struct SliderBootcamp: View {
 
     @State var sliderValue: Double = 3
 
-    @State var color: Color = .red
+    @State var color: Color = .blue
 
     var body: some View {
         VStack {
