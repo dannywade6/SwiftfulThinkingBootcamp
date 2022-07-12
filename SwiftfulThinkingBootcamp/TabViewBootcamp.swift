@@ -35,14 +35,6 @@ struct TabViewBootcamp: View {
         .tabViewStyle(.page)
 
 
-
-
-
-
-
-
-
-
 //        TabView(selection: $selectedTab) {
 //
 //            HomeView(selectedTab: $selectedTab)
